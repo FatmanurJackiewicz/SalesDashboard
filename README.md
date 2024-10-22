@@ -1,4 +1,4 @@
-**Use:** 
+**   How to Use:** 
 1. Download the project files.
 2. Open the **Dashboard** Excel file to interact with the visualizations.
 3.  Filter through different segments to view changes in the charts and analyze bike purchase behavior across different categories.
